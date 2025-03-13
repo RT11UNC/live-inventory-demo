@@ -1,6 +1,6 @@
 [
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A4-018",
         "Floor Number":"02",
         "Size Sq Ft":660.08,
@@ -13,7 +13,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A5-046",
         "Floor Number":"06",
         "Size Sq Ft":704.83,
@@ -26,7 +26,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A3-000",
         "Floor Number":"0",
         "Size Sq Ft":796.41,
@@ -39,7 +39,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A3-007",
         "Floor Number":"01",
         "Size Sq Ft":754.74,
@@ -52,7 +52,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A3-008",
         "Floor Number":"01",
         "Size Sq Ft":799.84,
@@ -65,7 +65,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A4-001",
         "Floor Number":"01",
         "Size Sq Ft":774.1,
@@ -78,7 +78,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A4-003",
         "Floor Number":"01",
         "Size Sq Ft":796.75,
@@ -91,7 +91,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A4-008",
         "Floor Number":"01",
         "Size Sq Ft":815.21,
@@ -104,7 +104,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A4-017",
         "Floor Number":"02",
         "Size Sq Ft":815.21,
@@ -117,7 +117,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A4-030",
         "Floor Number":"04",
         "Size Sq Ft":849.08,
@@ -130,7 +130,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A3-095",
         "Floor Number":"11",
         "Size Sq Ft":546.75,
@@ -143,7 +143,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A3-053",
         "Floor Number":"06",
         "Size Sq Ft":843.73,
@@ -156,7 +156,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A2-042",
         "Floor Number":"07",
         "Size Sq Ft":757.53,
@@ -169,7 +169,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"col",
+        "Building Name":"Colindale",
         "Unit Number":"A1-061",
         "Floor Number":"08",
         "Size Sq Ft":659.85,
@@ -182,7 +182,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"4303",
         "Floor Number":"43",
         "Size Sq Ft":563,
@@ -195,7 +195,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"2308",
         "Floor Number":"23",
         "Size Sq Ft":568,
@@ -208,7 +208,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"3908",
         "Floor Number":"39",
         "Size Sq Ft":568,
@@ -221,7 +221,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"4206",
         "Floor Number":"42",
         "Size Sq Ft":564,
@@ -234,7 +234,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"4408",
         "Floor Number":"44",
         "Size Sq Ft":568,
@@ -247,7 +247,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"3302",
         "Floor Number":"33",
         "Size Sq Ft":755,
@@ -260,7 +260,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"2304",
         "Floor Number":"23",
         "Size Sq Ft":765,
@@ -273,7 +273,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"3502",
         "Floor Number":"35",
         "Size Sq Ft":755,
@@ -286,7 +286,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"1206",
         "Floor Number":"12",
         "Size Sq Ft":564,
@@ -299,7 +299,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"1706",
         "Floor Number":"17",
         "Size Sq Ft":564,
@@ -312,7 +312,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"3206",
         "Floor Number":"32",
         "Size Sq Ft":564,
@@ -325,7 +325,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"3606",
         "Floor Number":"36",
         "Size Sq Ft":564,
@@ -338,7 +338,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"4405",
         "Floor Number":"44",
         "Size Sq Ft":570,
@@ -351,7 +351,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"1304",
         "Floor Number":"13",
         "Size Sq Ft":765,
@@ -364,7 +364,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"1302",
         "Floor Number":"13",
         "Size Sq Ft":755,
@@ -377,7 +377,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"3407",
         "Floor Number":"34",
         "Size Sq Ft":755,
@@ -390,7 +390,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"4204",
         "Floor Number":"42",
         "Size Sq Ft":765,
@@ -403,7 +403,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ec",
+        "Building Name":"Elephant & Castle",
         "Unit Number":"4401",
         "Floor Number":"44",
         "Size Sq Ft":763,
@@ -416,7 +416,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"empire",
+        "Building Name":"Empire Heights",
         "Unit Number":"201",
         "Floor Number":"2",
         "Size Sq Ft":774.94,
@@ -429,7 +429,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"empire",
+        "Building Name":"Empire Heights",
         "Unit Number":"006",
         "Floor Number":"0",
         "Size Sq Ft":774.94,
@@ -442,7 +442,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"nxgate",
+        "Building Name":"New Cross",
         "Unit Number":"C09",
         "Floor Number":"1",
         "Size Sq Ft":1140,
@@ -455,7 +455,7 @@
         "Suit Type":"dp03-F  "
     },
     {
-        "Building Name":"nxgate",
+        "Building Name":"New Cross",
         "Unit Number":"B22",
         "Floor Number":"2",
         "Size Sq Ft":523,
@@ -468,7 +468,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"nxgate",
+        "Building Name":"New Cross",
         "Unit Number":"C33",
         "Floor Number":"6",
         "Size Sq Ft":819,
@@ -481,7 +481,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"nxgate",
+        "Building Name":"New Cross",
         "Unit Number":"B33",
         "Floor Number":"2",
         "Size Sq Ft":518,
@@ -494,7 +494,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0409",
         "Floor Number":"4",
         "Size Sq Ft":481,
@@ -507,7 +507,7 @@
         "Suit Type":"1brl    "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0004",
         "Floor Number":"0",
         "Size Sq Ft":492,
@@ -520,7 +520,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0214",
         "Floor Number":"2",
         "Size Sq Ft":479,
@@ -533,7 +533,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0301",
         "Floor Number":"3",
         "Size Sq Ft":514,
@@ -546,7 +546,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0407",
         "Floor Number":"4",
         "Size Sq Ft":384,
@@ -559,7 +559,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0508",
         "Floor Number":"5",
         "Size Sq Ft":406,
@@ -572,7 +572,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0617",
         "Floor Number":"6",
         "Size Sq Ft":471,
@@ -585,7 +585,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0712",
         "Floor Number":"7",
         "Size Sq Ft":494,
@@ -598,7 +598,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0810",
         "Floor Number":"8",
         "Size Sq Ft":428,
@@ -611,7 +611,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0313",
         "Floor Number":"3",
         "Size Sq Ft":483,
@@ -624,7 +624,7 @@
         "Suit Type":"1brl    "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0703",
         "Floor Number":"7",
         "Size Sq Ft":434,
@@ -637,7 +637,7 @@
         "Suit Type":"1brl    "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0711",
         "Floor Number":"7",
         "Size Sq Ft":475,
@@ -650,7 +650,7 @@
         "Suit Type":"1brl    "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0205",
         "Floor Number":"2",
         "Size Sq Ft":406,
@@ -663,7 +663,7 @@
         "Suit Type":"stu     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0310",
         "Floor Number":"3",
         "Size Sq Ft":415,
@@ -676,7 +676,7 @@
         "Suit Type":"stu     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0518",
         "Floor Number":"5",
         "Size Sq Ft":527,
@@ -689,7 +689,7 @@
         "Suit Type":"1brl    "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0120",
         "Floor Number":"1",
         "Size Sq Ft":410,
@@ -702,7 +702,7 @@
         "Suit Type":"stu     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0605",
         "Floor Number":"6",
         "Size Sq Ft":405,
@@ -715,7 +715,7 @@
         "Suit Type":"stu     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0115",
         "Floor Number":"1",
         "Size Sq Ft":423,
@@ -728,7 +728,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0802",
         "Floor Number":"8",
         "Size Sq Ft":489,
@@ -741,7 +741,7 @@
         "Suit Type":"1brpl   "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0510",
         "Floor Number":"5",
         "Size Sq Ft":409,
@@ -754,7 +754,7 @@
         "Suit Type":"stu     "
     },
     {
-        "Building Name":"orient",
+        "Building Name":"Manchester",
         "Unit Number":"0110",
         "Floor Number":"1",
         "Size Sq Ft":423,
@@ -767,7 +767,7 @@
         "Suit Type":"stu     "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N2805",
         "Floor Number":"28",
         "Size Sq Ft":703,
@@ -780,7 +780,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"S1701",
         "Floor Number":"17",
         "Size Sq Ft":456,
@@ -793,7 +793,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N2603",
         "Floor Number":"26",
         "Size Sq Ft":511,
@@ -806,7 +806,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N1503",
         "Floor Number":"15",
         "Size Sq Ft":502,
@@ -819,7 +819,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N2901",
         "Floor Number":"29",
         "Size Sq Ft":696,
@@ -832,7 +832,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N3103",
         "Floor Number":"31",
         "Size Sq Ft":503,
@@ -845,7 +845,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"S0401",
         "Floor Number":"4",
         "Size Sq Ft":443,
@@ -858,7 +858,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N0501",
         "Floor Number":"5",
         "Size Sq Ft":622,
@@ -871,7 +871,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"S0907",
         "Floor Number":"9",
         "Size Sq Ft":703,
@@ -884,7 +884,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N1704",
         "Floor Number":"17",
         "Size Sq Ft":618,
@@ -897,7 +897,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"N2801",
         "Floor Number":"28",
         "Size Sq Ft":610,
@@ -910,7 +910,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"ppoint",
+        "Building Name":"Pioneer Point",
         "Unit Number":"S2302",
         "Floor Number":"23",
         "Size Sq Ft":932,
@@ -923,7 +923,7 @@
         "Suit Type":"dp02-f  "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1103A",
         "Floor Number":"11",
         "Size Sq Ft":564.03,
@@ -936,7 +936,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1105B",
         "Floor Number":"11",
         "Size Sq Ft":622.15,
@@ -949,7 +949,7 @@
         "Suit Type":"1brl    "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"905B",
         "Floor Number":"9",
         "Size Sq Ft":622.15,
@@ -962,7 +962,7 @@
         "Suit Type":"1brl    "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"303A",
         "Floor Number":"3",
         "Size Sq Ft":564.03,
@@ -975,7 +975,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"404A",
         "Floor Number":"4",
         "Size Sq Ft":584.48,
@@ -988,7 +988,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1804A",
         "Floor Number":"18",
         "Size Sq Ft":584.48,
@@ -1001,7 +1001,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1404A",
         "Floor Number":"14",
         "Size Sq Ft":584.5,
@@ -1014,7 +1014,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1703A",
         "Floor Number":"17",
         "Size Sq Ft":564.03,
@@ -1027,7 +1027,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1509A",
         "Floor Number":"15",
         "Size Sq Ft":622.15,
@@ -1040,7 +1040,7 @@
         "Suit Type":"1brl-f  "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1101A",
         "Floor Number":"11",
         "Size Sq Ft":767.47,
@@ -1053,7 +1053,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"302A",
         "Floor Number":"3",
         "Size Sq Ft":801.91,
@@ -1066,7 +1066,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"701A",
         "Floor Number":"7",
         "Size Sq Ft":767.47,
@@ -1079,7 +1079,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"704B",
         "Floor Number":"7",
         "Size Sq Ft":772.85,
@@ -1092,7 +1092,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"201A",
         "Floor Number":"2",
         "Size Sq Ft":767.47,
@@ -1105,7 +1105,7 @@
         "Suit Type":"2br-f   "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1405A",
         "Floor Number":"14",
         "Size Sq Ft":867.6,
@@ -1118,7 +1118,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1505A",
         "Floor Number":"15",
         "Size Sq Ft":867.6,
@@ -1131,7 +1131,7 @@
         "Suit Type":"2brl-f  "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1307A",
         "Floor Number":"13",
         "Size Sq Ft":497.3,
@@ -1144,7 +1144,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1407A",
         "Floor Number":"14",
         "Size Sq Ft":497.3,
@@ -1157,7 +1157,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"1803A",
         "Floor Number":"18",
         "Size Sq Ft":564.03,
@@ -1170,7 +1170,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"702A",
         "Floor Number":"7",
         "Size Sq Ft":801.91,
@@ -1183,7 +1183,7 @@
         "Suit Type":"2br     "
     },
     {
-        "Building Name":"south",
+        "Building Name":"Southall",
         "Unit Number":"405B",
         "Floor Number":"4",
         "Size Sq Ft":622.15,
@@ -1196,7 +1196,7 @@
         "Suit Type":"1brl-f  "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"NG07",
         "Floor Number":"0",
         "Size Sq Ft":187,
@@ -1209,7 +1209,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0801",
         "Floor Number":"8",
         "Size Sq Ft":254,
@@ -1222,7 +1222,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"LG03",
         "Floor Number":"-1",
         "Size Sq Ft":291,
@@ -1235,7 +1235,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"LG09",
         "Floor Number":"-1",
         "Size Sq Ft":260,
@@ -1248,7 +1248,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0107",
         "Floor Number":"1",
         "Size Sq Ft":191,
@@ -1261,7 +1261,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0109",
         "Floor Number":"1",
         "Size Sq Ft":189,
@@ -1274,7 +1274,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0206",
         "Floor Number":"2",
         "Size Sq Ft":190,
@@ -1287,7 +1287,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0608",
         "Floor Number":"6",
         "Size Sq Ft":191,
@@ -1300,7 +1300,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0906",
         "Floor Number":"9",
         "Size Sq Ft":190,
@@ -1313,7 +1313,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0911",
         "Floor Number":"9",
         "Size Sq Ft":230,
@@ -1326,7 +1326,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"G04",
         "Floor Number":"0",
         "Size Sq Ft":237,
@@ -1339,7 +1339,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"G07",
         "Floor Number":"0",
         "Size Sq Ft":309,
@@ -1352,7 +1352,7 @@
         "Suit Type":"ds      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0401",
         "Floor Number":"4",
         "Size Sq Ft":254,
@@ -1365,7 +1365,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"1014",
         "Floor Number":"10",
         "Size Sq Ft":253,
@@ -1378,7 +1378,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0106",
         "Floor Number":"1",
         "Size Sq Ft":190,
@@ -1391,7 +1391,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"1005",
         "Floor Number":"10",
         "Size Sq Ft":248,
@@ -1404,7 +1404,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0414",
         "Floor Number":"4",
         "Size Sq Ft":253,
@@ -1417,7 +1417,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0914",
         "Floor Number":"9",
         "Size Sq Ft":253,
@@ -1430,7 +1430,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0403",
         "Floor Number":"4",
         "Size Sq Ft":214,
@@ -1443,7 +1443,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"NG03",
         "Floor Number":"0",
         "Size Sq Ft":191,
@@ -1456,7 +1456,7 @@
         "Suit Type":"cs      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0605",
         "Floor Number":"6",
         "Size Sq Ft":248,
@@ -1469,7 +1469,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"swpark",
+        "Building Name":"Sweetwater",
         "Unit Number":"0201",
         "Floor Number":"2",
         "Size Sq Ft":254,
@@ -1482,7 +1482,7 @@
         "Suit Type":"ps      "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0081",
         "Floor Number":"14",
         "Size Sq Ft":816.99,
@@ -1495,7 +1495,7 @@
         "Suit Type":"2br2bf  "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0005",
         "Floor Number":"1",
         "Size Sq Ft":818.06,
@@ -1508,7 +1508,7 @@
         "Suit Type":"2br2b   "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0039",
         "Floor Number":"6",
         "Size Sq Ft":543.04,
@@ -1521,7 +1521,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0224",
         "Floor Number":"17",
         "Size Sq Ft":567.05,
@@ -1534,7 +1534,7 @@
         "Suit Type":"1br     "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0186",
         "Floor Number":"9",
         "Size Sq Ft":590.51,
@@ -1547,7 +1547,7 @@
         "Suit Type":"1br-d   "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0109",
         "Floor Number":"20",
         "Size Sq Ft":543.04,
@@ -1560,7 +1560,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0176",
         "Floor Number":"6",
         "Size Sq Ft":790.94,
@@ -1573,7 +1573,7 @@
         "Suit Type":"2br1b-d "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0107",
         "Floor Number":"20",
         "Size Sq Ft":820.32,
@@ -1586,7 +1586,7 @@
         "Suit Type":"2br2bf  "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0130",
         "Floor Number":"24",
         "Size Sq Ft":549.5,
@@ -1599,7 +1599,7 @@
         "Suit Type":"1br-f   "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0239",
         "Floor Number":"20",
         "Size Sq Ft":777.05,
@@ -1612,7 +1612,7 @@
         "Suit Type":"2br1bf  "
     },
     {
-        "Building Name":"wem",
+        "Building Name":"Wembley",
         "Unit Number":"0102",
         "Floor Number":"19",
         "Size Sq Ft":826.78,
